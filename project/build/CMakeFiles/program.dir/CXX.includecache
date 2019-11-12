@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mark/Documents/projects/neuralNetworkProject/Configuration.hpp
+
+/home/mark/Documents/projects/neuralNetworkProject/NeuralLayer.hpp
+stdio.h
+-
+cstdlib
+-
+iostream
+-
+Configuration.hpp
+/home/mark/Documents/projects/neuralNetworkProject/Configuration.hpp
+NeuralNode.hpp
+/home/mark/Documents/projects/neuralNetworkProject/NeuralNode.hpp
+
+/home/mark/Documents/projects/neuralNetworkProject/NeuralNetwork.hpp
+NeuralLayer.hpp
+/home/mark/Documents/projects/neuralNetworkProject/NeuralLayer.hpp
+
+/home/mark/Documents/projects/neuralNetworkProject/NeuralNode.hpp
+bits/stdc++.h
+-
+stdio.h
+-
+cstdlib
+-
+iostream
+-
+Configuration.hpp
+/home/mark/Documents/projects/neuralNetworkProject/Configuration.hpp
+
+/home/mark/Documents/projects/neuralNetworkProject/main.cpp
+iostream
+-
+NeuralNetwork.hpp
+/home/mark/Documents/projects/neuralNetworkProject/NeuralNetwork.hpp
+
